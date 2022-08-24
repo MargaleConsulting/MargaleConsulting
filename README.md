@@ -11,7 +11,11 @@ im sorry but thats kinda it
 
 -> Interesting Java Programms <br>
 -> Web dev <br> 
--> some fun stuff 
+-> some fun stuff <br> 
+
+## Links
+
+my other Github account -> https://github.com/0xf000000
 
 
 
