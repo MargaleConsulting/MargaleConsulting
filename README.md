@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hello There an welcome   👾
+
+## about me 
+
+I really enjoy doing computer stuff 🖥 <br>
+i go sailing ⛵️ <br> 
+ 
+im sorry but thats kinda it
+
+## what you can fine here :
+
+-> Interesting Java Programms <br>
+-> Web dev <br> 
+-> some fun stuff 
+
+
+
+
+
+
+
 
 <!--
 **MargaleConsulting/MargaleConsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
