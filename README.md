@@ -5,7 +5,7 @@
 I really enjoy doing computer stuff 🖥 <br>
 i go sailing ⛵️ <br> 
  
-im sorry but thats kinda it
+im sorry but that's kinda it
 
 ## what you can fine here :
 
